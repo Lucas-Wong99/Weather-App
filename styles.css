@@ -1,0 +1,73 @@
+
+html {
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background: #855988	;
+  background: linear-gradient(to Bottom, #6B4984 5%, #483475 20%, #2B2F77 55%,#2B2F77 50%,#070B34 90%);
+}
+
+
+h1 {
+  color: white;
+  font-size: 70px;
+  font-family: 'Stoke', serif;
+}
+
+h2 {
+  color: white;
+  font-size: 30px;
+  font-family: 'Stoke', serif;
+}
+
+h3 {
+  color: white;
+  font-size: 40px;
+  font-family: 'Stoke', serif;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+
+.flex-header {
+  display: flex;
+  justify-content: center;
+  margin-top: 170px;
+}
+
+.flex-again {
+  display: flex;
+  justify-content: center;
+}
+
+button.search-again{
+  height: 50px;
+  width: 100px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+}
+
+.results {
+  display: flex;
+  flex-direction: column;
+  margin-left: 400px;
+}
+
+.border {
+  border-color: black;
+}
+
+.fa-cloud-sun {
+  color: white;
+  margin-right: 20px;
+}
+/*
+  background: #855988	;
+  background: linear-gradient(to Bottom, #6B4984 5%, #483475 20%, #2B2F77 55%,#2B2F77 50%,#070B34 90%); */
